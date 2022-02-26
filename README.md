@@ -1,3 +1,3 @@
-# Machine Learning
+# Senior Thesis
 
-This repository stores files related to my machine learning projects, mainly examples of my senior thesis work. 
+This repository stores files related to my senior thesis project in machine learning with a touch of GPU computing.
